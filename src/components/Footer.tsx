@@ -62,15 +62,15 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-center space-x-2 hover:text-gold transition-colors duration-300 group">
                 <Mail className="h-4 w-4 text-gold group-hover:scale-110 transition-transform duration-300" />
-                <span className="text-gray-400">info@brandskulptmedia.com</span>
+                <span className="text-gray-400">brandskulptmedia@gmail.com</span>
               </li>
               <li className="flex items-center space-x-2 hover:text-gold transition-colors duration-300 group">
                 <Phone className="h-4 w-4 text-gold group-hover:scale-110 transition-transform duration-300" />
-                <span className="text-gray-400">+1 (555) 123-4567</span>
+                <span className="text-gray-400">+91 9007195231</span>
               </li>
               <li className="flex items-center space-x-2 hover:text-gold transition-colors duration-300 group">
                 <MapPin className="h-4 w-4 text-gold group-hover:scale-110 transition-transform duration-300" />
-                <span className="text-gray-400">123 Digital Street, Tech City</span>
+                <span className="text-gray-400">1/D, Thavkwell Road, Belur, Howrah</span>
               </li>
             </ul>
           </div>
@@ -78,7 +78,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center animate-fade-in" style={{ animationDelay: '800ms' }}>
           <p className="text-gray-400 hover:text-gray-300 transition-colors duration-300">
-            © 2024 Brandskulpt media. All rights reserved. | Crafted with ❤️ for digital excellence.
+            © 2024 Brandskulpt media. All rights reserved. 
           </p>
         </div>
       </div>
