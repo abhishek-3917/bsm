@@ -31,42 +31,7 @@ const About = () => {
     },
   ];
 
-  const team = [
-    {
-      name: 'Alex Rodriguez',
-      role: 'CEO & Founder',
-      image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face',
-      description: '10+ years in digital marketing with expertise in scaling businesses.',
-    },
-    {
-      name: 'Sarah Kim',
-      role: 'Head of Strategy',
-      image: 'https://images.unsplash.com/photo-1494790108755-2616b5c4c6f3?w=400&h=400&fit=crop&crop=face',
-      description: 'Strategic marketing expert with a passion for data-driven campaigns.',
-    },
-    {
-      name: 'Marcus Johnson',
-      role: 'Creative Director',
-      image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face',
-      description: 'Award-winning creative professional with 8+ years of brand experience.',
-    },
-    {
-      name: 'Emily Chen',
-      role: 'Technical Lead',
-      image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop&crop=face',
-      description: 'Full-stack developer specializing in marketing technology solutions.',
-    },
-  ];
-
-  const achievements = [
-    'Certified Google Premier Partner',
-    'Facebook Marketing Partner',
-    'HubSpot Gold Partner',
-    'Winner of Digital Marketing Excellence Award 2023',
-    'ISO 27001 Certified for Data Security',
-    'Listed in Top 50 Digital Agencies by Marketing Weekly',
-  ];
-
+ 
   return (
     <div className="min-h-screen bg-white">
       <FloatingCursor />
