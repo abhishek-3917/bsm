@@ -77,7 +77,7 @@ const About = () => {
         <div className="max-w-7xl mx-auto">
           <div className="text-center animate-fade-in">
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-              About <span className="text-gradient-gold">DigitalPro</span>
+              About <span className="text-gradient-gold">Brandskulpt Media</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
               We're a team of passionate digital marketing experts dedicated to helping businesses 
