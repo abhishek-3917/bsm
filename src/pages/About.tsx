@@ -61,12 +61,12 @@ const About = () => {
                 Our Story
               </h2>
               <p className="text-lg text-gray-600 mb-6">
-                Founded in 2019, DigitalPro emerged from a simple belief: every business deserves 
+                Founded in 2025, DigitalPro emerged from a simple belief: every business deserves 
                 access to world-class digital marketing expertise. What started as a small team of 
                 three digital enthusiasts has grown into a full-service agency serving clients globally.
               </p>
               <p className="text-lg text-gray-600 mb-6">
-                We've helped over 500 businesses transform their digital presence, generating millions 
+                We've helped over 50 businesses transform their digital presence, generating millions 
                 in additional revenue through strategic campaigns, innovative solutions, and relentless 
                 focus on results.
               </p>
